@@ -2,7 +2,7 @@
 
 Tools and Technologies I've worked with:
 
-- **Languages & Frameworks:** PHP, Laravel, CodeIgniter, JavaScript, TypeScript, Python, C, Java, Spring Java, NodeJS, Bootstrap, React, VueJS, JQuery, Doctrine/ORM, CSS.
+- **Languages & Frameworks:** PHP, Laravel, CodeIgniter, Doctrine/ORM, JavaScript, JQuery, React, VueJS, TypeScript, Python, C, Java, Spring Java, Hibernate, NodeJS, CSS, Bootstrap, HTML.
 
 - **Communication & Protocols:** REST APIs, SOAP, WebSocket.
   
