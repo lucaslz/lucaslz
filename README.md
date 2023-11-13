@@ -1,12 +1,12 @@
 ### Hello, I'm Lucas! 👋
 
-Tools and Technologies I've worked on:
+Tools and Technologies I've worked with:
 
-- **Linguagens & Frameworks:** PHP, Laravel, CodeIgniter, JavaScript, TypeScript, Python, C, Java, Java Spring, NodeJS, Bootstrap, React, VueJS, JQuery, Doctrine/ORM, CSS.
+- **Languages & Frameworks:** PHP, Laravel, CodeIgniter, JavaScript, TypeScript, Python, C, Java, Spring Java, NodeJS, Bootstrap, React, VueJS, JQuery, Doctrine/ORM, CSS.
 
-- **Communication & Protocols:** APIs Rest, SOAP, WebSocket.
+- **Communication & Protocols:** REST APIs, SOAP, WebSocket.
   
-- **Infrastructure & DevOps:** Docker, AWS, Nginx, CloudFlare, GitLab CI/CD, New Relic, Shell Script, Git, Grafana Loki, Portainer, Linux, Configuração de servidores, Ansible.
+- **Infrastructure & DevOps:** Docker, AWS, Nginx, CloudFlare, GitLab CI/CD, New Relic, Shell Script, Git, Grafana Loki, Portainer, Linux, Server Configuration, Ansible.
 
 - **Databases:** MySQL, Redis, PostgreSQL.
 
