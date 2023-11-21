@@ -2,7 +2,7 @@
 
 Tools and Technologies I've worked with:
 
-- **Languages & Frameworks:** PHP, Laravel, CodeIgniter, Doctrine/ORM, JavaScript, JQuery, React, VueJS, TypeScript, Python, C, Java, Spring Java, Hibernate, NodeJS, CSS, Bootstrap, HTML.
+- **Languages & Frameworks:** PHP, Laravel, CodeIgniter, Doctrine/ORM, JavaScript, JQuery, React, React Native, VueJS, TypeScript, Python, C, Java, Spring Boot, Hibernate, NodeJS, CSS, Bootstrap, HTML.
 
 - **Communication & Protocols:** REST APIs, SOAP, WebSocket.
   
@@ -10,5 +10,5 @@ Tools and Technologies I've worked with:
 
 - **Databases:** MySQL, Redis, PostgreSQL.
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucaslz&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucaslz&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucaslz&theme=nord_dark) |
-| :-: | :-: | :-: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucaslz&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucaslz&hide=Html&theme=nord_dark) |
+| :-: | :-: |
